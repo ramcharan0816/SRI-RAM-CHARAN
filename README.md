@@ -29,6 +29,7 @@ Git, GitHub, Jupyter Notebook, VS Code
 
 
 → Projects
+
 • Stress Detection using Machine Learning
 
 Built a machine learning model to detect stress from text data
